@@ -12,7 +12,7 @@ cdn 加速仓库
 
 放在 Github 的资源在国内加载速度比较慢，因此需要使用 CDN 加速来优化网站打开速度，jsDelivr + Github 便是免费且好用的 CDN，非常适合博客网站使用。
 
-
+sf
 https://cdn.jsdelivr.net/gh/szj2ys/cdn/gifs/jumpcat.gif
 
 
