@@ -16,6 +16,20 @@ sf
 https://cdn.jsdelivr.net/gh/szj2ys/cdn/gifs/jumpcat.gif
 
 
+# 主Github账号，默认即可
+Host github.com
+HostName github.com
+PreferredAuthentications publickey
+IdentityFile ~/.ssh/id_rsa
+
+# 第二个Github账号的配置，需要加上自己的用户名
+Host iszj.github.com
+HostName github.com
+PreferredAuthentications publickey
+IdentityFile ~/.ssh/id_rsa_iszj
+
+
+
 
 
 
