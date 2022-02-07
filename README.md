@@ -14,7 +14,7 @@ cdn 加速仓库
 
 sf
 https://cdn.jsdelivr.net/gh/szj2ys/cdn/gifs/jumpcat.gif
-https://cdn.jsdelivr.net/gh/szj2ys/cdn/gifs/code.gif
+
 
 
 # 主Github账号，默认即可
