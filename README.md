@@ -15,6 +15,10 @@ cdn 加速仓库
 sf
 https://cdn.jsdelivr.net/gh/szj2ys/cdn/gifs/jumpcat.gif
 
+![](https://cdn.jsdelivr.net/gh/szj2ys/cdn/resources/textcnn.png)
+
+
+wget xxx -O xx指定文件名
 
 
 # 主Github账号，默认即可
