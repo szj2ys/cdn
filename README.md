@@ -15,7 +15,7 @@ cdn 加速仓库
 sf
 https://cdn.jsdelivr.net/gh/szj2ys/cdn/gifs/jumpcat.gif
 
-![](https://cdn.jsdelivr.net/gh/szj2ys/cdn/resources/lstm_gate_math.png)
+![](https://cdn.jsdelivr.net/gh/szj2ys/cdn/resources/rnn.png)
 
 
 wget xxx -O xx指定文件名
