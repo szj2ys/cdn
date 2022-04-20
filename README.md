@@ -18,6 +18,7 @@ https://cdn.jsdelivr.net/gh/szj2ys/cdn/gifs/jumpcat.gif
 ![](https://cdn.jsdelivr.net/gh/szj2ys/cdn/resources/rnn.png)
 
 
+
 wget xxx -O xx指定文件名
 
 
