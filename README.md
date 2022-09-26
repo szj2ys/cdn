@@ -16,6 +16,7 @@ sf
 https://cdn.jsdelivr.net/gh/szj2ys/cdn/gifs/jumpcat.gif
 
 ![](https://cdn.jsdelivr.net/gh/szj2ys/cdn/resources/rnn.png)
+![](https://cdn.jsdelivr.net/gh/szj2ys/cdn/resources/avatar.png)
 
 
 
